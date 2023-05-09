@@ -1,1 +1,5 @@
 I will be writing down everything i learn in this file.
+
+18.4.2023
+
+I downloaded all needed extensions for vscode and some other components too but i seem to have ran into a problem while using node-sass in vscode terminal.a
